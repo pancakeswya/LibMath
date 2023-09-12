@@ -1,5 +1,5 @@
 # s21_math
-math.h implementation
+math.h implementation 
 
 ## Information
 
